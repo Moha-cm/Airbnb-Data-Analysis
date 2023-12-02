@@ -1,4 +1,7 @@
 #from datat_retrival import *
+#import seaborn as sns
+#import matplotlib.pyplot as plt
+
 import streamlit as st 
 import pymongo
 import streamlit as st
@@ -11,8 +14,6 @@ import plotly.express as px
 import geojson
 import json
 import plotly.graph_objects as go
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
 
