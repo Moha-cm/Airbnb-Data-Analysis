@@ -38,7 +38,7 @@ pip install streamlit pymongo pandas plotly
 
 # MongoDB Setup:
 
-1.Create a [ongoDB Atlas](https://www.mongodb.com/cloud/atlas/efficiency?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130772&cq_cmp=14412646476&gad=1&gclid=EAIaIQobChMIp8zhuOSEgAMVTw2DAx0aewI4EAAYASABEgIv__D_BwE)Account
+1.Create a [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/efficiency?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130772&cq_cmp=14412646476&gad=1&gclid=EAIaIQobChMIp8zhuOSEgAMVTw2DAx0aewI4EAAYASABEgIv__D_BwE)Account
 
 2.Set Up a Cluster
 
